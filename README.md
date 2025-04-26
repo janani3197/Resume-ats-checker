@@ -1,4 +1,3 @@
-# Resume ats checker
 # Resume ATS Checker
 
 ## Overview
